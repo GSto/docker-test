@@ -96,7 +96,7 @@ GEM
     minitest (5.14.4)
     msgpack (1.4.2)
     nio4r (2.5.7)
-    nokogiri (1.11.7-x86_64-darwin)
+    nokogiri (1.11.7-x86_64-linux)
       racc (~> 1.4)
     pg (1.2.3)
     public_suffix (4.0.6)
@@ -190,7 +190,7 @@ GEM
     zeitwerk (2.4.2)
 
 PLATFORMS
-  x86_64-darwin-18
+  ruby
 
 DEPENDENCIES
   bootsnap (>= 1.4.2)
@@ -214,4 +214,4 @@ RUBY VERSION
    ruby 2.7.2p137
 
 BUNDLED WITH
-   2.2.17
+   2.1.4
